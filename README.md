@@ -78,7 +78,7 @@ To do:
 
 
 ## Acknowledgements
--I got inspiration from pygame.org/project/2156 and ceo.org.pl under CC 4.0 license.
+I hed got inspiration from pygame.org/project/2156 and ceo.org.pl under CC 4.0 license.
 
 <!--
 ## Contact
