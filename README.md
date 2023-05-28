@@ -51,6 +51,7 @@ Then enter the command: `$ python3 pyPongGame.py `
 
 ## Usage
 To play, just move the mouse in the game window. The program captures the movement of the mouse pointer over the game window and moves the player's blue paddle. The second red paddle is controlled by the program. The movement of the red paddle has been chosen so that the computer loses the ball from time to time. (This is less frustrating for the player.)
+It is also possible to control the player's paddle using the arrow keys - left, right. In this case, it requires the player to concentrate more on the movement of the ball.
 <!--
 How does one go about using it?
 Provide various use cases and code examples here.
