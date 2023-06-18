@@ -1,5 +1,5 @@
 # pyPongGame
-A school project to learn how to use external Python modules. In this case, it's the pygame module.
+Hi! I'm Krzysztof Hajduczuk. This project is to learn how to use python modules. In this case, it's the pygame module.
 
 ## Table of Contents
 * [General Info](#general-information)
