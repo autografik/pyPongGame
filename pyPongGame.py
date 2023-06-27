@@ -76,14 +76,14 @@ PKT_1 = '0'
 PKT_AI = '0'
 fontObj = pygame.font.Font('freesansbold.ttf', 56)  # czcionka napisów
 
-
+# pokazuje punkty zdobyte przez gracza 
 def drukuj_punkty_g():
     tekst1 = fontObj.render(PKT_1, True, (16, 226, 226))
     tekst_prost1 = tekst1.get_rect()
     tekst_prost1.center = (POLEGRY_SZER / 2, POLEGRY_WYS * 0.75)
     polegry.blit(tekst1, tekst_prost1)
 
-
+# pokazuje punkty zdobyte przez AI 
 def drukuj_punkty_ai():
     tekst_ai = fontObj.render(PKT_AI, True, (16, 226, 226))
     tekst_prost_ai = tekst_ai.get_rect()
