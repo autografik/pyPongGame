@@ -2,32 +2,37 @@
 Hi! I'm Krzysztof Hajduczuk. This project is to learn how to use python modules. In this case, it's the pygame module.
 
 ## Table of Contents
-* [General Info](#general-information)
+* [General Information](#general-information)
 * [Technologies Used](#technologies-used)
-<!-- * [Features](#features)
-* [Screenshots](#screenshots) -->
+* [Features](#features)
+* [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Usage](#usage) 
 * [Project Status](#project-status)
-<!-- * [Room for Improvement](#room-for-improvement)
+* [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
-<!-- * [License](#license) -->
+* [License](#license)
 
 
 ## General Information
-This app called pyPongGame helps me understand how the pygame module works.
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+This app called pyPongGame helps me understand 
+    how the pygame module works.
+This README file is also first information file 
+    on witch I learn how to create all other one.
+### Qwestion
+This is place to answer all the questions 
+    - just the ones relevant to your project.
 
 
 ## Technologies Used
 - Python v3.10
 - pygame v2.4.0
 
-<!--
+
 ## Features
 List the ready features here:
-- Awesome feature 1
+- Old-school pictures for funs Minecraft
 - Awesome feature 2
 - Awesome feature 3
 
@@ -62,8 +67,8 @@ Provide various use cases and code examples here.
 ## Project Status
 The project is in version 0.1.0 and has development potential.
 <!-- / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+-->
 
-<!--
 ## Room for Improvement
 Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
@@ -74,7 +79,6 @@ Room for improvement:
 To do:
 - Feature to be added 1
 - Feature to be added 2
--->
 
 
 ## Acknowledgements
@@ -83,7 +87,7 @@ I hed got inspiration from pygame.org/project/2156 and ceo.org.pl under CC 4.0 l
 <!--
 ## Contact
 Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
-
+-->
 
 <!-- Optional -->
 <!-- ## License -->
